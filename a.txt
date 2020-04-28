@@ -1,1 +1,0 @@
-This is a.txt of branch master but now in Branch1
